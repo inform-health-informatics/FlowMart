@@ -1,0 +1,7 @@
+2020-02-20
+- tried and failed to set up MS SQL MS; some problem with getting the ODBC sources to be seen
+- set up VS Code incl Postgres and Vim extensions
+- set up git for windows so we can use the git gui
+- set up a shared drive to save this work at \\sharefs6\Shared\FlowMart
+- set up and made the Postgres connection from VS Code with all the connection parameters; some concern that it might have stored my password
+
